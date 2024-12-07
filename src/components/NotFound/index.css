@@ -1,0 +1,19 @@
+.not-found-bg-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+.not-found-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.not-found-img {
+  max-width: 250px;
+}
